@@ -42,7 +42,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeoutException;
 
 public class VariantApi {
-  String basePath = "https://mgmtapi.carismar.io";
+  String basePath = "https://mgmtapi.geins.io";
   ApiInvoker apiInvoker = ApiInvoker.getInstance();
 
   public void addHeader(String key, String value) {

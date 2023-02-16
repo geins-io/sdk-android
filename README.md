@@ -1,4 +1,4 @@
-# openapi-android-client for Geins Management API 
+# Android API client for Geins Management API
 
 ## Requirements
 
@@ -79,7 +79,7 @@ public class BrandApiExample {
 
 ## Documentation for API Endpoints
 
-All URIs are relative to *https://mgmtapi.carismar.io*
+All URIs are relative to *https://mgmtapi.geins.io*
 
 Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------
