@@ -1,4 +1,4 @@
-# openapi-android-client
+# openapi-android-client for Geins Management API 
 
 ## Requirements
 
